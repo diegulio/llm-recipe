@@ -26,21 +26,20 @@ cd your_repository
 
 1. Activate the virtual environment:
 
-```
+```bash
 poetry shell
 
 ```
-
 1. Install the project dependencies:
 
-```
+```bash
 poetry install
 
 ```
 
 1. Run the application:
 
-```
+```bash
 poetry run python main.py
 
 ```
@@ -58,7 +57,7 @@ If you would like to contribute to this project, please follow the steps below:
 1. Fork this repository and clone it to your local machine.
 2. Create a new branch for your contribution:
 
-```
+```bash
 git checkout -b my_branch
 
 ```
@@ -67,14 +66,14 @@ git checkout -b my_branch
 2. Ensure that your changes are tested and functioning correctly.
 3. Commit your changes:
 
-```
+```bash
 git commit -m "Description of your changes"
 
 ```
 
 1. Push the branch to your repository:
 
-```
+```bash
 git push origin my_branch
 
 ```
