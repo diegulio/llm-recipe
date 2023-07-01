@@ -56,4 +56,4 @@ iface = gr.Interface(
     description="This app will bring you a food's recipe and the list of ingredients needed to cook it.",
     examples=[["Lasagna"]],
 )
-iface.launch()
+
